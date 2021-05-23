@@ -1,0 +1,21 @@
+.carousel-item {
+  height: 540px;
+}
+
+.carousel-image-1 {
+  background: url("./img/img1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-image-2 {
+  background: url("./img/img2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-image-3 {
+  background: url("./img/img3.jpg");
+  background-size: cover;
+  background-position: center;
+}
